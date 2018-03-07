@@ -1,0 +1,69 @@
+body{
+  background-image: url(../img/main9.gif);
+}
+.header{
+  margin: 0 auto;
+}
+.header img{
+  margin-left: 15%;
+}
+.mainmenue {
+	background-color: dodgerblue;
+	width: 67.70%;
+	margin-left: 14.5%;
+	height: 11%;
+	padding: 15px 0px 15px 0px;
+	border-radius: 5px;
+}
+
+.mainmenue a {
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	border-right: 1px solid gray;
+	margin-left: 5%;
+	padding-right: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.mainbody{
+/* border: 1px solid black; */
+width: 67.50%;
+margin-left: 14%;
+margin-top: 0%;
+}
+.mainbody h3{
+  text-align: center;
+  color: cadetblue;
+  font-size: 30px;
+}
+.content a{
+  margin-left: 50%;
+  text-decoration: none;
+  border: 1px solid green;
+  border-radius: 5px;
+  padding: 3px;
+  font-size: 20px;
+  width: 10%;
+  color: white;
+  background-color: lightblue;
+}
+.footer{
+bottom: 0;
+width: 67.50%;
+margin-left: 14%;
+background-color: teal;
+position: absolute;
+border-radius: 5px;
+height: 50px;
+}
+.footer p{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+}
